@@ -32,10 +32,14 @@
 	/*
 	 * Chen x vao mang a
 	*/
-	
+
 
 	/*
 	 * Hien thi mang da dc chen x
+	*/
+
+	/*
+	 * Ket thuc chuong trinh va ket qua.
 	*/
 
 
