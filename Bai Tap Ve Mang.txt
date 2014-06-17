@@ -1,0 +1,34 @@
+Bai 1
+	Viết chương trình:
+	- Cho mang a gom 20 phan tu.
+	- Hiển thị dãy số vừa nhập
+	- Tìm phần tử xuất hiện nhiều nhất.
+	- Cho mang b gom 2 phan tu
+	- Xóa tất cả các phần tử trong mang a co trong mang b.
+
+Bai 2
+	Viết chương trình:
+	- Cho mang a gom 20 phan tu.
+	- Hiển thị dãy số vừa nhập
+	- Hien thi chi so + gia tri tung phan tu cua mang
+	- Tim phan tu lon nhat nho nhat trong mang
+
+Bai 3
+	- Cho mang a gom 20 phan tu.
+	- Sắp xếp dãy số tăng dần, và hiển thị lên màn hình dãy số đã sắp xếp
+	- Nhập số nguyên x, chèn x vào dãy số đã được sắp xếp sao cho dãy số vẫn tăng dần mà không cần sắp xếp lại
+
+Bai 4
+	- Cho mang a gom 20 phan tu.
+	- In ra mang a tu phan tu dau tien den phan tu co gia tri = 5.
+	- In ra cac phan tu chia het cho 3 va thuong la so chan.
+
+Bai 5
+	- Cho mang a gom 40 phan tu
+	- Cho mang b gom 8 phan tu
+	- Dem xem cac phan tu trong mang b xuat hien trong mang a bao nhieu lan.
+	- Xoa cac phan tu cua mang a ton tai trong mang b.
+
+Bai 6
+	- Cho phuong trinh bac 2 aX*X + bX + c =0
+	- Viet thuat toan giai phuong trinh.
